@@ -1,8 +1,8 @@
 {
-  "latestVersion": "0.15.2",
+  "latestVersion": "0.15.3",
   "minVersion": "0.0.0",
   "downloadUrl": "https://github.com/klopsnic-cyber/Perminator-Updates/releases/latest/download/Perminator.exe",
-  "notes": "Echte Auto-Aktualisierung, SharePoint/OneDrive-Prüfung erweitert (ungültige Zeichen, reservierte Namen).",
+  "notes": "Bugfix: Excel-Export crashte bei Berichtstiteln mit \"/\" (z. B. SharePoint/OneDrive-Prüfung).",
   "message": "",
   "revokedMachineIds": []
 }
