@@ -1,8 +1,8 @@
 {
-  "latestVersion": "0.15.1",
+  "latestVersion": "0.15.2",
   "minVersion": "0.0.0",
-  "downloadUrl": "https://github.com/klopsnic-cyber/Perminator-Updates/releases/latest",
-  "notes": "Update-Prüfung, Pfadlängen- und Dateigrößen-Analyse, Excel-Export für Berichte, automatische GitHub-Fehlermeldung.",
+  "downloadUrl": "https://github.com/klopsnic-cyber/Perminator-Updates/releases/latest/download/Perminator.exe",
+  "notes": "Echte Auto-Aktualisierung, SharePoint/OneDrive-Prüfung erweitert (ungültige Zeichen, reservierte Namen).",
   "message": "",
   "revokedMachineIds": []
 }
