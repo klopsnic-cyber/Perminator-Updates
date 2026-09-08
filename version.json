@@ -1,8 +1,8 @@
 {
-  "latestVersion": "0.15.3",
+  "latestVersion": "0.15.4",
   "minVersion": "0.0.0",
   "downloadUrl": "https://github.com/klopsnic-cyber/Perminator-Updates/releases/latest/download/Perminator.exe",
-  "notes": "Bugfix: Excel-Export crashte bei Berichtstiteln mit \"/\" (z. B. SharePoint/OneDrive-Prüfung).",
+  "notes": "Neu: Ordnergr\u00f6\u00dfen-Anzeige \u2013 Gr\u00f6\u00dfe jedes Ordners inkl. Unterordner, Dateianzahl und Anteil an der Gesamtgr\u00f6\u00dfe, absteigend sortiert (wie TreeSize).",
   "message": "",
   "revokedMachineIds": []
 }
