@@ -1,8 +1,8 @@
 {
-  "latestVersion": "0.15.12",
+  "latestVersion": "0.15.13",
   "minVersion": "0.0.0",
   "downloadUrl": "https://github.com/klopsnic-cyber/Perminator-Updates/releases/latest/download/Perminator.exe",
-  "notes": "Report-Relay live: Fehler melden legt jetzt automatisch GitHub-Issues an.",
+  "notes": "UI-Modernisierung (moderne Icons statt Emojis, mehr Farbe/Kontrast). Neu: mehrere Server pro Lauf, Drift-Alarm. Lizenz- und Performance-H\u00e4rtung.",
   "message": "",
   "revokedMachineIds": []
 }
