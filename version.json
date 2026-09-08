@@ -1,8 +1,8 @@
 {
-  "latestVersion": "0.15.10",
+  "latestVersion": "0.15.12",
   "minVersion": "0.0.0",
   "downloadUrl": "https://github.com/klopsnic-cyber/Perminator-Updates/releases/latest/download/Perminator.exe",
-  "notes": "Interner Umbau (keine Verhaltens\u00e4nderung): Code-Struktur aufger\u00e4umt.",
+  "notes": "Report-Relay live: Fehler melden legt jetzt automatisch GitHub-Issues an.",
   "message": "",
   "revokedMachineIds": []
 }
