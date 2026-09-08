@@ -1,8 +1,8 @@
 {
-  "latestVersion": "0.15.9",
+  "latestVersion": "0.15.10",
   "minVersion": "0.0.0",
   "downloadUrl": "https://github.com/klopsnic-cyber/Perminator-Updates/releases/latest/download/Perminator.exe",
-  "notes": "Neu: Mail-Versand f\u00fcr geplante Berichte im Headless-Modus (SMTP).",
+  "notes": "Interner Umbau (keine Verhaltens\u00e4nderung): Code-Struktur aufger\u00e4umt.",
   "message": "",
   "revokedMachineIds": []
 }
