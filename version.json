@@ -1,8 +1,8 @@
 {
-  "latestVersion": "0.15.4",
+  "latestVersion": "0.15.5",
   "minVersion": "0.0.0",
   "downloadUrl": "https://github.com/klopsnic-cyber/Perminator-Updates/releases/latest/download/Perminator.exe",
-  "notes": "Neu: Ordnergr\u00f6\u00dfen-Anzeige \u2013 Gr\u00f6\u00dfe jedes Ordners inkl. Unterordner, Dateianzahl und Anteil an der Gesamtgr\u00f6\u00dfe, absteigend sortiert (wie TreeSize).",
+  "notes": "Neu: Rechte \u00e4ndern (\u00f6ffnet Windows-Sicherheit-Dialog mit Sicherheitsabfrage vor dem \u00d6ffnen). Analyse-Buttons jetzt zweizeilig, Anleitung aktualisiert.",
   "message": "",
   "revokedMachineIds": []
 }
