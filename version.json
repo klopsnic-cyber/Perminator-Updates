@@ -1,8 +1,8 @@
 {
-  "latestVersion": "0.15.8",
+  "latestVersion": "0.15.9",
   "minVersion": "0.0.0",
   "downloadUrl": "https://github.com/klopsnic-cyber/Perminator-Updates/releases/latest/download/Perminator.exe",
-  "notes": "Sicherheits-H\u00e4rtung: Fehlerbericht-Vorschau vor dem Versand, abgesicherter Report-Relay, Anmeldedaten-Trennung beim Beenden.",
+  "notes": "Neu: Mail-Versand f\u00fcr geplante Berichte im Headless-Modus (SMTP).",
   "message": "",
   "revokedMachineIds": []
 }
