@@ -1,8 +1,8 @@
 {
-  "latestVersion": "0.15.5",
+  "latestVersion": "0.15.6",
   "minVersion": "0.0.0",
   "downloadUrl": "https://github.com/klopsnic-cyber/Perminator-Updates/releases/latest/download/Perminator.exe",
-  "notes": "Neu: Rechte \u00e4ndern (\u00f6ffnet Windows-Sicherheit-Dialog mit Sicherheitsabfrage vor dem \u00d6ffnen). Analyse-Buttons jetzt zweizeilig, Anleitung aktualisiert.",
+  "notes": "Neu: Suche in Berichtsfenstern (filtert live \u00fcber alle Spalten, z. B. nach Benutzername). Fehler melden l\u00e4uft jetzt ohne Token im Programm.",
   "message": "",
   "revokedMachineIds": []
 }
