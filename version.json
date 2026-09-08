@@ -1,8 +1,8 @@
 {
-  "latestVersion": "0.15.13",
+  "latestVersion": "0.15.14",
   "minVersion": "0.0.0",
   "downloadUrl": "https://github.com/klopsnic-cyber/Perminator-Updates/releases/latest/download/Perminator.exe",
-  "notes": "UI-Modernisierung (moderne Icons statt Emojis, mehr Farbe/Kontrast). Neu: mehrere Server pro Lauf, Drift-Alarm. Lizenz- und Performance-H\u00e4rtung.",
+  "notes": "Neu: Audit-Log f\u00fcr Rechte \u00e4ndern, Verlauf-Button \u00fcber mehrere Momentaufnahmen.",
   "message": "",
   "revokedMachineIds": []
 }
