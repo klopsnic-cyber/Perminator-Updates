@@ -1,8 +1,8 @@
 {
-  "latestVersion": "0.15.6",
+  "latestVersion": "0.15.7",
   "minVersion": "0.0.0",
   "downloadUrl": "https://github.com/klopsnic-cyber/Perminator-Updates/releases/latest/download/Perminator.exe",
-  "notes": "Neu: Suche in Berichtsfenstern (filtert live \u00fcber alle Spalten, z. B. nach Benutzername). Fehler melden l\u00e4uft jetzt ohne Token im Programm.",
+  "notes": "Neu: Andere Rechner/Server per UNC-Pfad scannen (inkl. Freigaben-Analyse). Neuer Button Andere Anmeldedaten f\u00fcr Server ohne automatischen Zugriff.",
   "message": "",
   "revokedMachineIds": []
 }
