@@ -1,8 +1,8 @@
 {
-  "latestVersion": "0.15.14",
+  "latestVersion": "0.15.15",
   "minVersion": "0.0.0",
   "downloadUrl": "https://github.com/klopsnic-cyber/Perminator-Updates/releases/latest/download/Perminator.exe",
-  "notes": "Neu: Audit-Log f\u00fcr Rechte \u00e4ndern, Verlauf-Button \u00fcber mehrere Momentaufnahmen.",
+  "notes": "Neu: Auto-Update mit Fortschrittsanzeige, Dateiprüfung und Rücksprung bei Fehlern.",
   "message": "",
   "revokedMachineIds": []
 }
