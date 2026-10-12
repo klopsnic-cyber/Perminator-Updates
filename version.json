@@ -1,8 +1,8 @@
 {
-  "latestVersion": "0.15.15",
+  "latestVersion": "0.15.16",
   "minVersion": "0.0.0",
   "downloadUrl": "https://github.com/klopsnic-cyber/Perminator-Updates/releases/latest/download/Perminator.exe",
-  "notes": "Neu: Auto-Update mit Fortschrittsanzeige, Dateiprüfung und Rücksprung bei Fehlern.",
+  "notes": "Neu: Version und Update-Prüfung dezent neben dem Titel; Auto-Update mit Fortschritt, Dateiprüfung und Rücksprung.",
   "message": "",
   "revokedMachineIds": []
 }
